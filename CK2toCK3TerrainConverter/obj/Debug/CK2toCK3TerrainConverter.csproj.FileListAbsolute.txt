@@ -1,0 +1,14 @@
+C:\Users\Inwerwm\Source\Repos\CK2toCK3TerrainConverter\CK2toCK3TerrainConverter\bin\Debug\CK2toCK3TerrainConverter.exe.config
+C:\Users\Inwerwm\Source\Repos\CK2toCK3TerrainConverter\CK2toCK3TerrainConverter\bin\Debug\CK2toCK3TerrainConverter.exe
+C:\Users\Inwerwm\Source\Repos\CK2toCK3TerrainConverter\CK2toCK3TerrainConverter\bin\Debug\CK2toCK3TerrainConverter.pdb
+C:\Users\Inwerwm\Source\Repos\CK2toCK3TerrainConverter\CK2toCK3TerrainConverter\obj\Debug\CK2toCK3TerrainConverter.csprojAssemblyReference.cache
+C:\Users\Inwerwm\Source\Repos\CK2toCK3TerrainConverter\CK2toCK3TerrainConverter\obj\Debug\CK2toCK3TerrainConverter.Form1.resources
+C:\Users\Inwerwm\Source\Repos\CK2toCK3TerrainConverter\CK2toCK3TerrainConverter\obj\Debug\CK2toCK3TerrainConverter.Properties.Resources.resources
+C:\Users\Inwerwm\Source\Repos\CK2toCK3TerrainConverter\CK2toCK3TerrainConverter\obj\Debug\CK2toCK3TerrainConverter.csproj.GenerateResource.cache
+C:\Users\Inwerwm\Source\Repos\CK2toCK3TerrainConverter\CK2toCK3TerrainConverter\obj\Debug\CK2toCK3TerrainConverter.csproj.CoreCompileInputs.cache
+C:\Users\Inwerwm\Source\Repos\CK2toCK3TerrainConverter\CK2toCK3TerrainConverter\obj\Debug\CK2toCK3TerrainConverter.exe
+C:\Users\Inwerwm\Source\Repos\CK2toCK3TerrainConverter\CK2toCK3TerrainConverter\obj\Debug\CK2toCK3TerrainConverter.pdb
+C:\Users\Inwerwm\Source\Repos\CK2toCK3TerrainConverter\CK2toCK3TerrainConverter\bin\Debug\Pixelmap.dll
+C:\Users\Inwerwm\Source\Repos\CK2toCK3TerrainConverter\CK2toCK3TerrainConverter\bin\Debug\Pixelmap.pdb
+C:\Users\Inwerwm\Source\Repos\CK2toCK3TerrainConverter\CK2toCK3TerrainConverter\obj\Debug\CK2toCK3TerrainConverter.csproj.CopyComplete
+C:\Users\Inwerwm\Source\Repos\CK2toCK3TerrainConverter\CK2toCK3TerrainConverter\bin\Debug\Pixelmap.xml

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CK2toCK3TerrainConverter", "CK2toCK3TerrainConverter.csproj", "{CC24AFAA-6542-442A-911B-D36F3B6CBF4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC24AFAA-6542-442A-911B-D36F3B6CBF4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC24AFAA-6542-442A-911B-D36F3B6CBF4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC24AFAA-6542-442A-911B-D36F3B6CBF4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC24AFAA-6542-442A-911B-D36F3B6CBF4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0208282E-0EE7-4111-B669-5F5C53536F14}
+	EndGlobalSection
+EndGlobal
